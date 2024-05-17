@@ -1,0 +1,18 @@
+{
+  "name": "pdf-table-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pomgui/pdf-tables-parser": "^0.1.0",
+    "pdfjs-dist": "v2.7.570"
+  }
+}
